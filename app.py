@@ -53,10 +53,10 @@ def  summary():
         
 while True:
     createfile()
-    print('\n=========Event Exprence Managemant=============')
-    print('1 for Add Exprence')
-    print('2 for Show exprence')
-    print('3 for Summry exprence')
+    print('\n=========Event Expence Managemant=============')
+    print('1 for Add Expence')
+    print('2 for Show Expence')
+    print('3 for Summry Expence')
     print('4 for exit')
     print('Thaks for visit......')
     
